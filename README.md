@@ -1,6 +1,9 @@
 # ServerPinger
 Simple Minecraft server mass scanner
 
+## Prerequisites - Java
+&nbsp;&nbsp;&nbsp;&nbsp; - valid java installation
+
 ## Java - PingExecutable
 An executable jar that can be ran with "java -jar PingLib.jar"
 
